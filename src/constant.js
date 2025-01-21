@@ -1,1 +1,1 @@
-export const backendURL = ""
+export const backendURL = "https://visual-product-manager-unthinkable.onrender.com"
